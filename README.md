@@ -1,6 +1,8 @@
 # Grammatize
 o	A writing aid that check for and suggests corrections for misspelt words, suggests alternate words to improve vocabulary and other simple related tasks such as capitalizing of certain words and removal of extra white spaces. 
+
 o	The main concepts used to enhance the efficiency of the functionalities are Part of Speech Tags, Word Vectors, Context Free Grammar to check for correctness of the syntax.
+
 o	The project is implemented using Python. The NLP packages used are Spacy and NLTK.
 
 
