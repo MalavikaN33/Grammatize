@@ -5,6 +5,8 @@ o	The main concepts used to enhance the efficiency of the functionalities are Pa
 
 o	The project is implemented using Python. The NLP packages used are Spacy and NLTK.
 
+o	Result: The effeciency and accuracy of the spell-checker turned out to be beeter than most available spell checkers (pyspellchecker, hunspell). However, using Penn Treebank's CFGs is not the right approch to check syntactical correctness.
+
 
 # Part of Speech Tagging : 
 In corpus linguistics, part-of-speech tagging, also called grammatical tagging is the process of marking up a word in a text as corresponding to a particular part of speech, based on both its definition and its context.
